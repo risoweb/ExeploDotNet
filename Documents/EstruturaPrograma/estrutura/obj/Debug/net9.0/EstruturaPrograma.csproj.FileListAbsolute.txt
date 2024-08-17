@@ -1,0 +1,14 @@
+C:\Users\risow\Documents\EstruturaPrograma\bin\Debug\net9.0\EstruturaPrograma.exe
+C:\Users\risow\Documents\EstruturaPrograma\bin\Debug\net9.0\EstruturaPrograma.deps.json
+C:\Users\risow\Documents\EstruturaPrograma\bin\Debug\net9.0\EstruturaPrograma.runtimeconfig.json
+C:\Users\risow\Documents\EstruturaPrograma\bin\Debug\net9.0\EstruturaPrograma.dll
+C:\Users\risow\Documents\EstruturaPrograma\bin\Debug\net9.0\EstruturaPrograma.pdb
+C:\Users\risow\Documents\EstruturaPrograma\obj\Debug\net9.0\EstruturaPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\risow\Documents\EstruturaPrograma\obj\Debug\net9.0\EstruturaPrograma.AssemblyInfoInputs.cache
+C:\Users\risow\Documents\EstruturaPrograma\obj\Debug\net9.0\EstruturaPrograma.AssemblyInfo.cs
+C:\Users\risow\Documents\EstruturaPrograma\obj\Debug\net9.0\EstruturaPrograma.csproj.CoreCompileInputs.cache
+C:\Users\risow\Documents\EstruturaPrograma\obj\Debug\net9.0\EstruturaPrograma.dll
+C:\Users\risow\Documents\EstruturaPrograma\obj\Debug\net9.0\refint\EstruturaPrograma.dll
+C:\Users\risow\Documents\EstruturaPrograma\obj\Debug\net9.0\EstruturaPrograma.pdb
+C:\Users\risow\Documents\EstruturaPrograma\obj\Debug\net9.0\EstruturaPrograma.genruntimeconfig.cache
+C:\Users\risow\Documents\EstruturaPrograma\obj\Debug\net9.0\ref\EstruturaPrograma.dll
